@@ -1,0 +1,41 @@
+			ORB			LSD
+fr1_xyz			0.010518 m		0.032339 m
+fr2_xyz			0.002815 m		0.024234 m
+fr1_floor		X			0.340199 m (lost1072)
+fr1_desk		0.012312 m		0.036414 m (lost83)
+fr2_360 _kidnap		0.030511 m		0.194833 m(lost294)
+fr2_desk		0.009465 m		0.027710 m(lost343)
+fr3_long _office	0.026866 m		0.061782 m(lost675)
+fr3_nstr_tex_far	X			0.275454 m(lost404)
+fr3_nstr_ tex_near	0.029088 m		0.216241 m
+fr3_str_tex_far		0.011255 m		0.155263 m
+fr3_str_ tex_near	0.011880 m		0.053251 m(lost377)
+fr2_desk_person		0.007135 m		0.468339 m(lost2892)
+fr3_sit_xyz		0.011215 m		0.119155 m
+fr3_sit_halfsph		0.016218 m		0.026305 m(lost335)
+fr3_walk_xyz		0.012258 m		0.084112 m(lost589)
+fr3_walk_halfsph	0.198508 m		0.372090 m(lost443)
+fr1_360	X		0.052347 m(lost35)
+fr1_desk2		0.331178 m(lost)	0.044440 m(lost63)
+fr1_room		0.262707 m(lost)	0.324912 m(lost298)
+fr2_360_hemi		0.104603 m(lost)	0.058325 m(lost122)
+fr2_large_noloop	can't match(lost)	0.133228 m(lost418)
+fr2_large_withloop	(lost)			0.147831 m(lost58)
+fr1_rpy						0.016856 m(lost49)
+fr2_rpy						0.045730 m(lost822)
+fr2_pion_360					0.103550 m(lost156)
+fr2_pion					0.715312 m(lost1334)
+fr2_pion2					0.036354 m(lost217)
+fr2_pion3					0.117564 m(lost334)
+fr3_nstr_ntex_far				0.024228 m(lost33)
+fr3_nstr_ntex_near				X
+fr3_str_ntex_far				0.354514 m(lost375)
+fr3_str_ntex_near				0.061420 m(lost237)
+
+on tum rgbd dataset
+using orb's author's evaluation tool 
+
+ORB: too strict to initialize 
+LSD: initialize well, precision less than orb
+both: can't handle fast motion
+
