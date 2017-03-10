@@ -38,4 +38,5 @@ using orb's author's evaluation tool
 ORB: too strict to initialize 
 LSD: initialize well, precision less than orb
 both: can't handle fast motion
+dso: poor result without photometric calibration, fail to initializa with dynamic objects
 
