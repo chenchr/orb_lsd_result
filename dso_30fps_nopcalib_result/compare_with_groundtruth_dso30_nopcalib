@@ -1,0 +1,316 @@
+#fr1_xyz
+scale: 1.241318 
+compared_pose_pairs 167 pairs
+absolute_translational_error.rmse 0.048561 m
+absolute_translational_error.mean 0.038117 m
+absolute_translational_error.median 0.031677 m
+absolute_translational_error.std 0.030088 m
+absolute_translational_error.min 0.001958 m
+absolute_translational_error.max 0.182946 m
+
+
+#fr2_xyz
+scale: 0.249482 
+compared_pose_pairs 113 pairs
+absolute_translational_error.rmse 0.354437 m
+absolute_translational_error.mean 0.303592 m
+absolute_translational_error.median 0.277863 m
+absolute_translational_error.std 0.182914 m
+absolute_translational_error.min 0.045443 m
+absolute_translational_error.max 0.862709 m
+
+
+#fr1_floor_lost707
+scale: 1.072791 
+compared_pose_pairs 148 pairs
+absolute_translational_error.rmse 0.200325 m
+absolute_translational_error.mean 0.111377 m
+absolute_translational_error.median 0.071593 m
+absolute_translational_error.std 0.166509 m
+absolute_translational_error.min 0.012860 m
+absolute_translational_error.max 1.109983 m
+
+
+#fr1_desk
+scale: 1.080386 
+compared_pose_pairs 180 pairs
+absolute_translational_error.rmse 0.074673 m
+absolute_translational_error.mean 0.068935 m
+absolute_translational_error.median 0.070703 m
+absolute_translational_error.std 0.028705 m
+absolute_translational_error.min 0.008395 m
+absolute_translational_error.max 0.149283 m
+
+#fr2_360_kidnap_lost389
+scale: 5.664444 
+compared_pose_pairs 45 pairs
+absolute_translational_error.rmse 0.056281 m
+absolute_translational_error.mean 0.049211 m
+absolute_translational_error.median 0.047502 m
+absolute_translational_error.std 0.027309 m
+absolute_translational_error.min 0.011463 m
+absolute_translational_error.max 0.106470 m
+
+#fr2_desk
+scale: 4.107243 
+compared_pose_pairs 320 pairs
+absolute_translational_error.rmse 1.371978 m
+absolute_translational_error.mean 1.277798 m
+absolute_translational_error.median 1.320701 m
+absolute_translational_error.std 0.499554 m
+absolute_translational_error.min 0.572827 m
+absolute_translational_error.max 2.839430 m
+
+
+#fr3_long_office
+scale: 2.646630 
+compared_pose_pairs 455 pairs
+absolute_translational_error.rmse 0.782499 m
+absolute_translational_error.mean 0.680550 m
+absolute_translational_error.median 0.572826 m
+absolute_translational_error.std 0.386208 m
+absolute_translational_error.min 0.161781 m
+absolute_translational_error.max 2.093953 m
+
+
+#fr3_nstr_tex_far
+scale: 2.039283 
+compared_pose_pairs 65 pairs
+absolute_translational_error.rmse 0.033122 m
+absolute_translational_error.mean 0.027410 m
+absolute_translational_error.median 0.022763 m
+absolute_translational_error.std 0.018595 m
+absolute_translational_error.min 0.003076 m
+absolute_translational_error.max 0.094517 m
+
+
+#fr3_nstr_tex_near
+scale: 0.950102 
+compared_pose_pairs 314 pairs
+absolute_translational_error.rmse 0.530306 m
+absolute_translational_error.mean 0.319591 m
+absolute_translational_error.median 0.192892 m
+absolute_translational_error.std 0.423186 m
+absolute_translational_error.min 0.020832 m
+absolute_translational_error.max 2.558560 m
+
+
+#fr3_str_tex_far
+scale: 2.146670 
+compared_pose_pairs 105 pairs
+absolute_translational_error.rmse 0.010939 m
+absolute_translational_error.mean 0.009757 m
+absolute_translational_error.median 0.009429 m
+absolute_translational_error.std 0.004946 m
+absolute_translational_error.min 0.002142 m
+absolute_translational_error.max 0.025867 m
+
+
+#fr3_str_tex_near
+scale: 0.884984 
+compared_pose_pairs 161 pairs
+absolute_translational_error.rmse 0.075819 m
+absolute_translational_error.mean 0.072205 m
+absolute_translational_error.median 0.069273 m
+absolute_translational_error.std 0.023130 m
+absolute_translational_error.min 0.027909 m
+absolute_translational_error.max 0.129358 m
+
+
+#fr2_desk_person
+scale: 1.043984 
+compared_pose_pairs 249 pairs
+absolute_translational_error.rmse 1.188541 m
+absolute_translational_error.mean 1.010272 m
+absolute_translational_error.median 1.032956 m
+absolute_translational_error.std 0.626084 m
+absolute_translational_error.min 0.117936 m
+absolute_translational_error.max 2.514687 m
+
+#fr3_sit_xyz
+can't match
+
+#fr3_sit_halfsph
+scale: 0.634050 
+compared_pose_pairs 169 pairs
+absolute_translational_error.rmse 0.370988 m
+absolute_translational_error.mean 0.329963 m
+absolute_translational_error.median 0.288562 m
+absolute_translational_error.std 0.169578 m
+absolute_translational_error.min 0.084507 m
+absolute_translational_error.max 0.897719 m
+
+
+#fr3_walk_xyz_fail_before
+scale: 3.921285 
+compared_pose_pairs 46 pairs
+absolute_translational_error.rmse 0.269547 m
+absolute_translational_error.mean 0.216102 m
+absolute_translational_error.median 0.186294 m
+absolute_translational_error.std 0.161107 m
+absolute_translational_error.min 0.027753 m
+absolute_translational_error.max 0.678113 m
+
+
+#fr3_walk_halfsph_fail_before
+scale: 2.353097 
+compared_pose_pairs 115 pairs
+absolute_translational_error.rmse 0.473799 m
+absolute_translational_error.mean 0.404874 m
+absolute_translational_error.median 0.332338 m
+absolute_translational_error.std 0.246096 m
+absolute_translational_error.min 0.086764 m
+absolute_translational_error.max 1.072429 m
+
+
+#fr1_360_lost35
+scale: 0.724321 
+compared_pose_pairs 35 pairs
+absolute_translational_error.rmse 0.052347 m
+absolute_translational_error.mean 0.046577 m
+absolute_translational_error.median 0.042260 m
+absolute_translational_error.std 0.023892 m
+absolute_translational_error.min 0.013029 m
+absolute_translational_error.max 0.129687 m
+
+#fr1_desk2_lost63
+scale: 1.032359 
+compared_pose_pairs 54 pairs
+absolute_translational_error.rmse 0.044440 m
+absolute_translational_error.mean 0.039254 m
+absolute_translational_error.median 0.036031 m
+absolute_translational_error.std 0.020835 m
+absolute_translational_error.min 0.007858 m
+absolute_translational_error.max 0.109273 m
+
+#fr1_room_lost298
+scale: 0.676407 
+compared_pose_pairs 298 pairs
+absolute_translational_error.rmse 0.324912 m
+absolute_translational_error.mean 0.304310 m
+absolute_translational_error.median 0.283466 m
+absolute_translational_error.std 0.113855 m
+absolute_translational_error.min 0.092876 m
+absolute_translational_error.max 0.536825 m
+
+#fr2_360_hemi_lost122
+scale: 6.314425 
+compared_pose_pairs 122 pairs
+absolute_translational_error.rmse 0.058325 m
+absolute_translational_error.mean 0.055394 m
+absolute_translational_error.median 0.054892 m
+absolute_translational_error.std 0.018258 m
+absolute_translational_error.min 0.018072 m
+absolute_translational_error.max 0.106197 m
+
+#fr2_large_noloop_lost418
+scale: 5.130091 
+compared_pose_pairs 229 pairs
+absolute_translational_error.rmse 0.133228 m
+absolute_translational_error.mean 0.115109 m
+absolute_translational_error.median 0.098061 m
+absolute_translational_error.std 0.067079 m
+absolute_translational_error.min 0.026414 m
+absolute_translational_error.max 0.297162 m
+
+#fr2_large_withloop_lost58
+scale: 7.695340 
+compared_pose_pairs 56 pairs
+absolute_translational_error.rmse 0.147831 m
+absolute_translational_error.mean 0.134047 m
+absolute_translational_error.median 0.123072 m
+absolute_translational_error.std 0.062332 m
+absolute_translational_error.min 0.026143 m
+absolute_translational_error.max 0.329669 m
+
+#fr1_rpy_lost49
+scale: 1.156860 
+compared_pose_pairs 49 pairs
+absolute_translational_error.rmse 0.016856 m
+absolute_translational_error.mean 0.013751 m
+absolute_translational_error.median 0.010615 m
+absolute_translational_error.std 0.009747 m
+absolute_translational_error.min 0.001366 m
+absolute_translational_error.max 0.050751 m
+
+#fr2_rpy_lost822
+scale: 0.195532 
+compared_pose_pairs 822 pairs
+absolute_translational_error.rmse 0.045730 m
+absolute_translational_error.mean 0.041562 m
+absolute_translational_error.median 0.040706 m
+absolute_translational_error.std 0.019074 m
+absolute_translational_error.min 0.008463 m
+absolute_translational_error.max 0.076756 m
+
+#fr2_pion_360_lost156
+scale: 5.450906 
+compared_pose_pairs 156 pairs
+absolute_translational_error.rmse 0.103550 m
+absolute_translational_error.mean 0.086578 m
+absolute_translational_error.median 0.056380 m
+absolute_translational_error.std 0.056805 m
+absolute_translational_error.min 0.008728 m
+absolute_translational_error.max 0.299902 m
+
+#fr2_pion_lost1334
+scale: 6.239429 
+compared_pose_pairs 1333 pairs
+absolute_translational_error.rmse 0.715312 m
+absolute_translational_error.mean 0.604800 m
+absolute_translational_error.median 0.592861 m
+absolute_translational_error.std 0.381954 m
+absolute_translational_error.min 0.010940 m
+absolute_translational_error.max 1.912389 m
+
+#fr2_pion2_lost217
+scale: 1.538435 
+compared_pose_pairs 186 pairs
+absolute_translational_error.rmse 0.036354 m
+absolute_translational_error.mean 0.034777 m
+absolute_translational_error.median 0.033761 m
+absolute_translational_error.std 0.010593 m
+absolute_translational_error.min 0.009846 m
+absolute_translational_error.max 0.067353 m
+
+#fr2_pion3_lost334
+scale: 1.222955 
+compared_pose_pairs 326 pairs
+absolute_translational_error.rmse 0.117564 m
+absolute_translational_error.mean 0.081423 m
+absolute_translational_error.median 0.046276 m
+absolute_translational_error.std 0.084804 m
+absolute_translational_error.min 0.008008 m
+absolute_translational_error.max 0.441375 m
+
+#fr3_nstr_ntex_far_lost33
+scale: 0.990072 
+compared_pose_pairs 30 pairs
+absolute_translational_error.rmse 0.024228 m
+absolute_translational_error.mean 0.021084 m
+absolute_translational_error.median 0.020753 m
+absolute_translational_error.std 0.011937 m
+absolute_translational_error.min 0.005610 m
+absolute_translational_error.max 0.063773 m
+
+#fr3_nstr_ntex_near_fail
+
+#fr3_str_ntex_far_lost375
+scale: 2.197975 
+compared_pose_pairs 371 pairs
+absolute_translational_error.rmse 0.354514 m
+absolute_translational_error.mean 0.301042 m
+absolute_translational_error.median 0.263077 m
+absolute_translational_error.std 0.187227 m
+absolute_translational_error.min 0.043659 m
+absolute_translational_error.max 0.872291 m
+
+#fr3_str_ntex_near_lost237
+scale: 0.896496 
+compared_pose_pairs 235 pairs
+absolute_translational_error.rmse 0.061420 m
+absolute_translational_error.mean 0.049341 m
+absolute_translational_error.median 0.041726 m
+absolute_translational_error.std 0.036577 m
+absolute_translational_error.min 0.005314 m
+absolute_translational_error.max 0.250467 m
